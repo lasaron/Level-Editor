@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelEditor", "WpfApplication1\LevelEditor.csproj", "{8D6AB526-2DF7-4252-AC96-9AD11E4DC2FE}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "FRELAS14 Tiles", "Database1\FRELAS14 Tiles.sqlproj", "{5C7233BD-A604-4939-97C7-E7C8BDA4A57F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D6AB526-2DF7-4252-AC96-9AD11E4DC2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6AB526-2DF7-4252-AC96-9AD11E4DC2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6AB526-2DF7-4252-AC96-9AD11E4DC2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6AB526-2DF7-4252-AC96-9AD11E4DC2FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C7233BD-A604-4939-97C7-E7C8BDA4A57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7233BD-A604-4939-97C7-E7C8BDA4A57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7233BD-A604-4939-97C7-E7C8BDA4A57F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5C7233BD-A604-4939-97C7-E7C8BDA4A57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7233BD-A604-4939-97C7-E7C8BDA4A57F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C7233BD-A604-4939-97C7-E7C8BDA4A57F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
