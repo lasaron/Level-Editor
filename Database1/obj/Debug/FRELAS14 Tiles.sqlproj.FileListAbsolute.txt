@@ -1,0 +1,9 @@
+C:\Users\Lasek\Desktop\TOOLS PROG\WpfApplication1\Database1\bin\Debug\FRELAS14 Tiles.dacpac
+C:\Users\Lasek\Desktop\TOOLS PROG\WpfApplication1\Database1\bin\Debug\Database1.dll
+C:\Users\Lasek\Desktop\TOOLS PROG\WpfApplication1\Database1\bin\Debug\Database1.pdb
+C:\Users\Lasek\Desktop\TOOLS PROG\WpfApplication1\Database1\obj\Debug\Model.xml
+C:\Users\Lasek\Desktop\TOOLS PROG\WpfApplication1\Database1\obj\Debug\refactor.xml
+C:\Users\Lasek\Desktop\TOOLS PROG\WpfApplication1\Database1\obj\Debug\postdeploy.sql
+C:\Users\Lasek\Desktop\TOOLS PROG\WpfApplication1\Database1\obj\Debug\predeploy.sql
+C:\Users\Lasek\Desktop\TOOLS PROG\WpfApplication1\Database1\obj\Debug\Database1.dll
+C:\Users\Lasek\Desktop\TOOLS PROG\WpfApplication1\Database1\obj\Debug\Database1.pdb

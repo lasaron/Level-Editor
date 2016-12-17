@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Tiles].[Backgrounds] is being dropped, data loss could occur.
+       The column [dbo].[Tiles].[Flooring] is being dropped, data loss could occur.
+       The column [dbo].[Tiles].[Traps] is being dropped, data loss could occur.
+
+** User actions
+     Alter
+       [dbo].[Tiles] (Table)
+
+** Supporting actions
+
+The column [dbo].[Tiles].[Backgrounds] is being dropped, data loss could occur.
+The column [dbo].[Tiles].[Flooring] is being dropped, data loss could occur.
+The column [dbo].[Tiles].[Traps] is being dropped, data loss could occur.
+
